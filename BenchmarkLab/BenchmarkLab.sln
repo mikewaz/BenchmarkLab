@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BenchmarkLab.Lib", "BenchmarkLab.Lib\BenchmarkLab.Lib.csproj", "{DEC5647F-C72E-4B1F-B9FF-E9EE2B485B18}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BenchmarkLab.Console", "BenchmarkLab.Console\BenchmarkLab.Console.csproj", "{445FBDBD-065C-4F9E-B7F1-540473B0FDAB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DEC5647F-C72E-4B1F-B9FF-E9EE2B485B18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEC5647F-C72E-4B1F-B9FF-E9EE2B485B18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEC5647F-C72E-4B1F-B9FF-E9EE2B485B18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEC5647F-C72E-4B1F-B9FF-E9EE2B485B18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{445FBDBD-065C-4F9E-B7F1-540473B0FDAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{445FBDBD-065C-4F9E-B7F1-540473B0FDAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{445FBDBD-065C-4F9E-B7F1-540473B0FDAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{445FBDBD-065C-4F9E-B7F1-540473B0FDAB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
